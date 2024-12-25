@@ -21,17 +21,19 @@ The images below detail the simulation steps, processor synthesis, and static ti
 I would like to express my gratitude to Can Dost Yavuz, whose guidance I followed while learning FPGA technologies and enhancing my digital design skills, for supporting me on this journey.
 
 A primitive addition example:
+
 ```vhdl
-    0 => YUKLE_A_SBT, -- A registerine sabit sayi atama
+    0 => YUKLE_A_SBT, -- 
     1 => x"F0",       -- 11110000  ( 240 )
-    2 => YUKLE_B_SBT, -- B registerine sabit sayi atama
+    2 => YUKLE_B_SBT, -- 
     3 => x"0F",       -- 00001111   ( 15 )
-    4 => TOPLA_AB,    -- A ve B toplananacak ( 255)
-    5 => KAYDET_A,    -- Toplam sonucunu A registerine kaydedecek
-    6 => x"80",       -- Bellek adresi ( 128. adrese kaydedecek)
-    7 => ATLA,        -- Programın sonuna atla
-    8 => x"00",       -- Atlanan adres
-    others => x"00"   -- ```
+    4 => TOPLA_AB,    --  ( 255)
+    5 => KAYDET_A,    -- 
+    6 => x"80",       -- 
+    7 => ATLA,        -- 
+    8 => x"00",       -- 
+    others => x"00"   --
+;```
 
 
 
