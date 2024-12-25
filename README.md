@@ -35,3 +35,4 @@ A primitive addition example:
 
 
 
+![SIMULATION ON VIVADO](store_register.png)
