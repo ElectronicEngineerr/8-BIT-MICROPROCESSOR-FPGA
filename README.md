@@ -32,9 +32,7 @@ A primitive addition example:
     6 => x"80",       -- 
     7 => ATLA,        -- 
     8 => x"00",       -- 
-    others => x"00"   --
-;```
+    others => x"00"   --```
 
 
 
-![SIMULATION ON VIVADO](store_register.png)
