@@ -38,14 +38,16 @@ A primitive addition example:
     
  SIMULATION ON VIVADO
 
-[SIMULATION ON VIVADO](store_register.png)
+![SIMULATION ON VIVADO](store_register.png)
 
 SIMULATION ON QUESTA SİM
 
-[SIMULATION ON QUESTA SİM](multisim.png)
+![STATIC TIMING ANALYSIS](https://github.com/ElectronicEngineerr/8-BIT-MICROPROCESSOR/blob/main/Timing%20Analys.png)
+
 
 STATIC TIMING ANALYSIS
 
-[STATIC TIMING ANALYSIS]([Timing Analys.png](https://github.com/ElectronicEngineerr/8-BIT-MICROPROCESSOR/blob/main/Timing%20Analys.png))
+![STATIC TIMING ANALYSIS](https://github.com/ElectronicEngineerr/8-BIT-MICROPROCESSOR/blob/main/Timing%20Analys.png)
+
 
 
