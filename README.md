@@ -42,7 +42,7 @@ A primitive addition example:
 
 SIMULATION ON QUESTA SİM
 
-![STATIC TIMING ANALYSIS](https://github.com/ElectronicEngineerr/8-BIT-MICROPROCESSOR/blob/main/Timing%20Analys.png)
+![STATIC TIMING ANALYSIS](https://github.com/ElectronicEngineerr/8-BIT-MICROPROCESSOR/blob/main/multisim.png)
 
 
 STATIC TIMING ANALYSIS
