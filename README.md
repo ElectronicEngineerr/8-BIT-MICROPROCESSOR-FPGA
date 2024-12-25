@@ -42,10 +42,10 @@ A primitive addition example:
 
 SIMULATION ON QUESTA SİM
 
-[SIMULATION ON VIVADO](multisim.png)
+[SIMULATION ON QUESTA SİM](multisim.png)
 
 STATIC TIMING ANALYSIS
 
-[SIMULATION ON VIVADO](Timing Analys.png)
+[STATIC TIMING ANALYSIS](Timing Analys.png)
 
 
