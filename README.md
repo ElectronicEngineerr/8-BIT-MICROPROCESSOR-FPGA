@@ -46,6 +46,6 @@ SIMULATION ON QUESTA SİM
 
 STATIC TIMING ANALYSIS
 
-[STATIC TIMING ANALYSIS](Timing Analys.png)
+[STATIC TIMING ANALYSIS]([Timing Analys.png](https://github.com/ElectronicEngineerr/8-BIT-MICROPROCESSOR/blob/main/Timing%20Analys.png))
 
 
