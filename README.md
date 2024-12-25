@@ -22,7 +22,6 @@ I would like to express my gratitude to Can Dost Yavuz, whose guidance I followe
 
 A primitive addition example:
 
-```vhdl
     0 => YUKLE_A_SBT, -- 
     1 => x"F0",       -- 11110000  ( 240 )
     2 => YUKLE_B_SBT, -- 
@@ -32,7 +31,7 @@ A primitive addition example:
     6 => x"80",       -- 
     7 => ATLA,        -- 
     8 => x"00",       -- 
-    others => x"00"   --```
-
+    others => x"00"   --
+    
 
 
