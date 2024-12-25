@@ -38,6 +38,14 @@ A primitive addition example:
     
  SIMULATION ON VIVADO
 
-![SIMULATION ON VIVADO](store_register.png)
+[SIMULATION ON VIVADO](store_register.png)
+
+SIMULATION ON QUESTA SİM
+
+[SIMULATION ON VIVADO](multisim.png)
+
+STATIC TIMING ANALYSIS
+
+[SIMULATION ON VIVADO](Timing Analys.png)
 
 
