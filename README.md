@@ -4,6 +4,7 @@ This microprocessor design was implemented in Vivado using VHDL. During the desi
 
 By systematically creating the submodules to construct the top module, named computer, I developed:
 
+
 Arithmetic Logic Unit (ALU)
 Program Memory (ROM)
 Data Memory (RAM)
