@@ -12,6 +12,7 @@ Control Unit
 CPU and Data Path
 I combined both structural and behavioral design methods to achieve a comprehensive microprocessor.
 
+
 Simulation and Analysis:
 Using a Test Bench, I successfully executed a primitive operation such as adding two 8-bit inputs and saving the result to a register. The simulations were validated using Vivado, ModelSim, and Questa-Sim.
 
